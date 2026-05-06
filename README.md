@@ -38,14 +38,6 @@ The goal of this project is to understand cricket data using Python and derive m
 - Count plots
 
 
-📂 Project Structure
-
-IPL-Analysis/
-│
-├── IPL_Analysis.ipynb      # Main Jupyter Notebook
-└── README.md               # Project documentation
-
-
 🚀 Key Insights
 
 - Certain teams dominate IPL history consistently
